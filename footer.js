@@ -7,6 +7,8 @@ document.write('\
             © 2018 Upcube - Crafted with <i class="mdi mdi-heart text-danger"></i> by Themesdesign.\
             © 2018 Upcube - Crafted with <i class="mdi mdi-heart text-danger"></i> by Themesdesign.\
             © 2018 Upcube - Crafted with <i class="mdi mdi-heart text-danger"></i> by Themesdesign.\
+            © 2018 Upcube - Crafted with <i class="mdi mdi-heart text-danger"></i> by Themesdesign.\
+            © 2018 Upcube - Crafted with <i class="mdi mdi-heart text-danger"></i> by Themesdesign.\
         </div>\
     </div>\
 </div>\
